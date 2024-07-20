@@ -1,0 +1,18 @@
+body{
+    background-image: url("https://media.giphy.com/media/l0Iy2trIvk0PTybwk/giphy.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+button{
+    background-color: rgb(6, 20, 20);
+    width: 600px;
+    text-align: center;
+    height: 60px;
+}
+.container{
+    color:rgb(14, 196, 196);
+}
+.center{
+    transform: translate(25%,25%);
+    font-size: 20px;
+}
